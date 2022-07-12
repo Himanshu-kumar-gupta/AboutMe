@@ -1,2 +1,2 @@
-# Himanshu-kumar-gupta.github.io-AboutMe
+# AboutMe
 This repository contains my portfolio website
